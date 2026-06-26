@@ -1,38 +1,41 @@
-<img src="https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Poltak%20Hatunggal&subtitle=Information%20Systems%20Student%20|%20Web%20Developer&theme=tokyonight" width="100%" />
-# Halo, Saya Poltak! 👋
+# Halo, Saya Poltak Hatunggal Siregar! 👋
 
 ### 🚀 Tentang Saya
-Saya adalah seorang mahasiswa **Sistem Informasi** yang sedang fokus mendalami dunia **Web Development (Front-End & Back-End)**. Saya senang membangun aplikasi web yang interaktif, responsif, dan estetik menggunakan teknologi modern.
+Saya adalah seorang mahasiswa **Sistem Informasi** di Universitas Katolik Musi Charitas yang sedang fokus mendalami dunia **Web Development**. Saya senang mengulik coding dan membangun aplikasi web yang interaktif, responsif, serta estetik.
 
-- 🔭 Saat ini saya sedang aktif belajar dasar-dasar pengembangan web modern.
-- 💻 Alat kerja utama saya sehari-hari adalah **Visual Studio Code** dan **Git/GitHub**.
-- ⚙️ Tertarik pada optimasi tampilan web, manajemen basis data, dan arsitektur aplikasi.
+- 🔭 **Fokus Saat Ini:** Sedang aktif belajar dasar-dasar pengembangan web modern (Front-End & Back-End).
+- 💻 **Alat Kerja:** Menggunakan **Visual Studio Code**, **Git**, dan **GitHub** untuk mengelola proyek coding.
+- ⚙️ **Minat:** Tertarik pada optimasi tampilan UI/UX web, manajemen basis data (Database), dan implementasi sistem informasi.
 
 ---
 
 ### 🛠️ Teknologi & Alat Kerja
-Berikut adalah beberapa teknologi yang sedang dan telah saya pelajari dalam perjalanan coding saya:
+Berikut adalah gambar logo teknologi yang sedang saya pelajari dan gunakan:
 
-| Bidang | Teknologi / Tools |
+| Bidang | Gambar Logo / Teknologi |
 | :--- | :--- |
-| **Front-End** | HTML5, CSS3, JavaScript (ES6) |
-| **Desain & Layout** | Flexbox, Responsive Web Design |
-| **Tools & Dev** | Git, GitHub, VS Code |
+| **Front-End** | <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" /> |
+| **Back-End** | <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" /> |
+| **Tools** | <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" /> |
 
 ---
 
-### 📊 Statistik GitHub Saya
-Berikut adalah statistik aktivitas coding saya yang akan diperbarui otomatis oleh GitHub:
-
-![Statistik GitHub Poltak](https://github-readme-stats.vercel.app/api?username=poltaksiregar530&show_icons=true&theme=tokyonight&count_private=true)
-![Bahasa yang Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=poltaksiregar530&layout=compact&theme=tokyonight)
+### 🎯 Target & Proyek Coding
+* [x] Mempelajari dasar HTML & CSS Layouting (Flexbox)
+* [ ] Membangun website klinik kesehatan dengan sistem login (PHP & MySQL)
+* [ ] Membuat portofolio web responsif yang bisa diakses lewat HP
+* [ ] Mempublikasikan proyek web pertama ke GitHub
 
 ---
 
 ### 📬 Hubungi Saya
-Mari berteman dan berkolaborasi! Kamu bisa menemukan saya di platform berikut:
+Mari berteman, berdiskusi tentang sistem informasi, atau berkolaborasi dalam proyek web!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email-kamu@gmail.com)
+* **Gmail:** poltaksiregar530@gmail.com
+* **GitHub:** [github.com/poltaksiregar530](https://github.com)
 
-*“Code is like humor. When you have to explain it, it’s bad.”* 💻✨
+---
+
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.”</i> 💻✨
+</p>
