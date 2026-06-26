@@ -1,16 +1,37 @@
-## Hi there 👋
+# Halo, Saya Poltak! 👋
 
-<!--
-**poltaksiregar530/poltaksiregar530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Tentang Saya
+Saya adalah seorang mahasiswa **Sistem Informasi** yang sedang fokus mendalami dunia **Web Development (Front-End & Back-End)**. Saya senang membangun aplikasi web yang interaktif, responsif, dan estetik menggunakan teknologi modern.
 
-Here are some ideas to get you started:
+- 🔭 Saat ini saya sedang aktif belajar dasar-dasar pengembangan web modern.
+- 💻 Alat kerja utama saya sehari-hari adalah **Visual Studio Code** dan **Git/GitHub**.
+- ⚙️ Tertarik pada optimasi tampilan web, manajemen basis data, dan arsitektur aplikasi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Teknologi & Alat Kerja
+Berikut adalah beberapa teknologi yang sedang dan telah saya pelajari dalam perjalanan coding saya:
+
+| Bidang | Teknologi / Tools |
+| :--- | :--- |
+| **Front-End** | HTML5, CSS3, JavaScript (ES6) |
+| **Desain & Layout** | Flexbox, Responsive Web Design |
+| **Tools & Dev** | Git, GitHub, VS Code |
+
+---
+
+### 📊 Statistik GitHub Saya
+Berikut adalah statistik aktivitas coding saya yang akan diperbarui otomatis oleh GitHub:
+
+![Statistik GitHub Poltak](https://github-readme-stats.vercel.app/api?username=poltaksiregar530&show_icons=true&theme=tokyonight&count_private=true)
+![Bahasa yang Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=poltaksiregar530&layout=compact&theme=tokyonight)
+
+---
+
+### 📬 Hubungi Saya
+Mari berteman dan berkolaborasi! Kamu bisa menemukan saya di platform berikut:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email-kamu@gmail.com)
+
+*“Code is like humor. When you have to explain it, it’s bad.”* 💻✨
