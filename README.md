@@ -1,3 +1,4 @@
+![Banner Poltak](https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Poltak%20Hatunggal&subtitle=Information%20Systems%20Student%20|%20Web%20Developer&theme=tokyonight)
 # Halo, Saya Poltak! 👋
 
 ### 🚀 Tentang Saya
